@@ -1,0 +1,7 @@
+cite_key,doi,year,title,venue,used_for
+Peruzzo2014,10.1038/ncomms5213,2014,A variational eigenvalue solver on a photonic quantum processor,Nature Communications,Original VQE method (the method demonstrated here)
+Kandala2017,10.1038/nature23879,2017,Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets,Nature,Hardware-efficient VQE incl. LiH on real hardware; noise-ceiling context
+Preskill2018,10.22331/q-2018-08-06-79,2018,Quantum Computing in the NISQ era and beyond,Quantum,NISQ framing; why noisy devices are gate-error-limited
+Grimsley2019,10.1038/s41467-019-10988-2,2019,An adaptive variational algorithm for exact molecular simulations (ADAPT-VQE),Nature Communications,Adaptive ansatz alternative to fixed UCCSD (depth reduction)
+Cerezo2021,10.1038/s42254-021-00348-9,2021,Variational quantum algorithms,Nature Reviews Physics,VQA review; barren-plateau / trainability context
+Tilly2022,10.1016/j.physrep.2022.08.003,2022,The Variational Quantum Eigensolver: A review of methods and best practices,Physics Reports,VQE best-practices review; ansatz/optimizer/noise-mitigation survey

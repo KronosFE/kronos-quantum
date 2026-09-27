@@ -1,0 +1,7 @@
+regime,regime_desc,noise_model,sigma_B_T,state_err_mean,state_err_std,survives_fusion_env,n_seed,model_err_floor_rel,provenance
+"equilibrium (strong field, ~6 T)",main magnetic-equilibrium reconstruction,conventional coil,0.0005,0.01985508407559103,0.006460458549490231,deployed,20,0.002,SIM+TRL-SURVEY
+"equilibrium (strong field, ~6 T)",main magnetic-equilibrium reconstruction,NV quantum-limited,2.85e-11,0.01980970325780429,0.0065142202326415955,conditional (fusion-plausible),20,0.002,SIM+TRL-SURVEY
+"equilibrium (strong field, ~6 T)",main magnetic-equilibrium reconstruction,SQUID quantum-limited,3.16e-14,0.019809703256385567,0.006514220235765812,no (cryo/stray-field disqualified),20,0.002,SIM+TRL-SURVEY
+"edge/fluctuation (weak field, ~20 mT)",low-signal edge / fluctuation reconstruction,conventional coil,0.0005,0.25564873508839137,0.0643122728283555,deployed,20,0.002,SIM+TRL-SURVEY
+"edge/fluctuation (weak field, ~20 mT)",low-signal edge / fluctuation reconstruction,NV quantum-limited,2.85e-11,0.0198102326606977,0.00651445249932909,conditional (fusion-plausible),20,0.002,SIM+TRL-SURVEY
+"edge/fluctuation (weak field, ~20 mT)",low-signal edge / fluctuation reconstruction,SQUID quantum-limited,3.16e-14,0.019810232234200587,0.006514453434647811,no (cryo/stray-field disqualified),20,0.002,SIM+TRL-SURVEY

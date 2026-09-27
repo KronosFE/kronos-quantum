@@ -1,0 +1,4 @@
+kernel,corner_size,q_wall_s,classical_opt_wall_s,q_over_classical,logical_qubits,T_count,crossover_year,quantum_wins,verdict
+K1,N=32,8724.740838644952,0.536870912,16251.09620139925,90,6711339106.649963,2029,False,NO CROSSOVER — quantum still loses
+K2,Ng=1e3,57795.49666377108,5e-06,11559099332.754215,40,82564995233.9587,2029,False,NO CROSSOVER — quantum still loses
+K3,M=50,9.943689110435823,0.000625,15909.902576697317,70,11048543.456039805,2029,False,NO CROSSOVER — quantum still loses

@@ -1,0 +1,5 @@
+instance,n_qubits,transpiled_depth,n_params,exact_Ha,ideal_final_Ha,ideal_err_mHa,ideal_reaches_chem_acc,noisy_err_mean_mHa,noisy_err_std_mHa,noisy_reaches_chem_acc,noisy_over_chem_acc_x
+H2,2,11,3,-1.137306,-1.137306,0.0,True,22.63,6.381,False,14.2
+LiH_2e3o,4,234,8,-7.863078,-7.863078,0.0,True,363.342,4.874,False,227.9
+LiH_2e4o,6,673,15,-7.863842,-7.863842,0.0001,True,991.087,3.586,False,621.8
+LiH_2e5o,8,1434,24,-7.882175,-7.882123,0.0514,True,2079.407,4.109,False,1304.5

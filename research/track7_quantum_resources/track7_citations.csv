@@ -1,0 +1,22 @@
+cite_id,first_author,year,venue,doi_or_arxiv,role_in_track7,resolved
+CIT03,I. Y. Dodin,2021,Physics of Plasmas 28 092101,10.1063/5.0056974,K1 — quantum-for-plasma survey (taxonomy basis),yes
+CIT04,A. Engel,2019,Physical Review A 100 062315,10.1103/PhysRevA.100.062315,K1 — quantum Vlasov algorithm (qubit-count anchor),yes
+CIT05,A. W. Harrow,2009,Physical Review Letters 103 150502,10.1103/PhysRevLett.103.150502,K2 — QLSA (HHL) original,yes
+CIT06,I. Novikau,2022,Physical Review A 105 062444,10.1103/PhysRevA.105.062444,K1 — QSP for cold plasma waves,yes
+CIT07,I. Joseph,2020,Physical Review Research 2 043102,10.1103/PhysRevResearch.2.043102,K1 — Koopman-von Neumann nonlinearity embedding (nonlinearity line item),yes
+CIT08,A. Peruzzo,2014,Nature Communications 5 4213,10.1038/ncomms5213,K3 — VQE origin,yes
+T7-01,A. G. Fowler,2012,Physical Review A 86 032324,10.1103/PhysRevA.86.032324,Cost model — surface-code error suppression + patch footprint,yes
+T7-02,C. Gidney,2021,Quantum 5 433,10.22331/q-2021-04-15-433,Cost model — magic-state factory footprint + whole-algorithm accounting (RSA-2048 anchor),yes
+T7-03,A. M. Childs,2017,SIAM J. Comput. 46 1920,10.1137/16M1087072,K2 — improved QLSA (exponentially better precision),yes
+T7-04,M. E. Beverland,2022,arXiv:2211.07629,10.48550/arXiv.2211.07629,Cost model — scale-to-advantage resource methodology,yes
+T7-05,J. Lee,2021,PRX Quantum 2 030305,10.1103/PRXQuantum.2.030305,K3 — tensor-hypercontraction FT chemistry,yes
+T7-06,S. Aaronson,2015,Nature Physics 11 291,10.1038/nphys3272,K2 — read-in/read-out caveat (the LEAD adverse finding basis),yes
+T7-07,A. Gilyen,2019,Proc. STOC 2019 193,10.1145/3313276.3316366,K1/K2 — quantum singular value transformation (qubitization/QSVT),yes
+T7-08,Y. R. Sanders,2020,PRX Quantum 1 020312,10.1103/PRXQuantum.1.020312,Cost model — FT resource-estimation methodology,yes
+T7-09,D. W. Berry,2015,Proc. FOCS 2015 792,10.1109/FOCS.2015.54,K1 — LCU Hamiltonian simulation,yes
+T7-10,P. C. S. Costa,2022,PRX Quantum 3 040303,10.1103/PRXQuantum.3.040303,K2 — optimal-scaling QLSA (discrete adiabatic),yes
+T7-11,R. Babbush,2018,Physical Review X 8 041015,10.1103/PhysRevX.8.041015,K3 — linear-T block-encoding for chemistry,yes
+T7-12,V. von Burg,2021,Physical Review Research 3 033055,10.1103/PhysRevResearch.3.033055,K3 — FT chemistry resource-estimation (FeMoco cross-check anchor),yes
+T7-13,J. Candy,2003,J. Comput. Phys. 186 545,10.1016/S0021-9991(03)00079-2,K1 — NAMED classical baseline (Eulerian gyrokinetic CGYRO/GENE-class),yes
+T7-14,L. L. Lao,1985,Nuclear Fusion 25 1611,10.1088/0029-5515/25/11/007,K2 — NAMED classical baseline (EFIT Grad-Shafranov solver),yes
+T7-15,G. H. Low,2019,Quantum 3 163,10.22331/q-2019-07-12-163,K1 — qubitization / Hamiltonian-sim primitive,yes

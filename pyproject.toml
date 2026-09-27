@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kronos-quantum"
+version = "0.1.0"
+description = "Kronos Quantum — honest, runnable quantum-computing-for-fusion codes: nine quantum programs that run on a simulator today and on real hardware the moment you plug in an account. No quantum advantage claimed this decade; a meaningful role in fusion is a post-~2036 prospect."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Kronos Fusion Energy" }]
+keywords = ["fusion", "quantum-computing", "vqe", "qaoa", "quantum-machine-learning",
+            "error-mitigation", "hamiltonian-simulation", "pennylane"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = [
+    "numpy>=1.21,<2",       # torch-free here, but pinned <2 for backend/plugin compatibility
+    "scipy>=1.7",
+    "scikit-learn>=1.1",    # KQERN's classical SVM baseline
+    "pandas>=1.3",          # bundled-data loaders
+    "pennylane>=0.35",      # the quantum circuits (free local simulator by default)
+]
+
+[project.optional-dependencies]
+# real quantum hardware / shot-based simulation (same code path; see docs/RUN_ON_HARDWARE.md)
+hardware = ["pennylane-qiskit", "qiskit-aer"]
+dev = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://www.kronosfusionenergy.com/ai"
+Repository = "https://github.com/KronosFE/kronos-quantum"
+
+[tool.setuptools]
+packages = ["kronos_quantum", "kronos_quantum.members"]

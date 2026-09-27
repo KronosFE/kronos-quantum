@@ -1,0 +1,6 @@
+device,N_effective,dB_below_SQL,dphi_achieved_rad,population,at_or_below_SQL,doi,note,provenance
+Advanced LIGO squeezed vacuum (O3),1.000e+12,3.2,6.9183e-07,DEPLOYED,sub-SQL,10.1103/PhysRevLett.123.231107,3.2 dB broadband quantum noise reduction in a running interferometer,TRL-SURVEY
+LIGO frequency-dependent squeezing (O4),1.000e+12,5.0,5.6234e-07,DEPLOYED,sub-SQL,10.1103/PhysRevX.13.041021,up to ~5 dB broadband; sub-SQL across the band,TRL-SURVEY
+Spin-squeezed atomic ensemble (metrology),1.000e+06,10.0,3.1623e-04,LAB-STAGE,sub-SQL,10.1103/RevModPhys.90.035005,"entanglement-enhanced atomic ensembles, review-level best",TRL-SURVEY
+"SERF OPM (shot-noise-limited, no squeezing)",1.000e+08,0.0,1.0000e-04,DEPLOYED,at SQL,10.1038/nature01484,record sensitivity but AT the SQL - a classical-limit reference,TRL-SURVEY
+NV ensemble (shot-noise-limited),1.000e+10,0.0,1.0000e-05,LAB-STAGE,at SQL,10.1103/PhysRevX.5.041001,operates at/above SQL; radiation-hard host - the fusion-relevant one,TRL-SURVEY

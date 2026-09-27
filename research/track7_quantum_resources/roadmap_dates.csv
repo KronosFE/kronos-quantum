@@ -1,0 +1,6 @@
+org,projection,year,logical_qubits,phys_err,note
+IBM,IBM Quantum roadmap (Starling),2029,200,~1e-3,"~200 logical qubits, first FT machine (vendor projection)"
+IBM,IBM Quantum roadmap (Blue Jay),2033,2000,~1e-3,~2000 logical qubits (vendor projection)
+Google,Google Quantum AI roadmap,2030,100,~1e-3,~1e6 physical qubits target -> O(100) logical at d~15-25 (vendor projection)
+Google,Google Quantum AI roadmap,2035,1000,~1e-3,long-term FT scale-up (vendor projection)
+Quantinuum,Quantinuum hardware roadmap,2030,100,~1e-4,"trapped-ion high-fidelity, fewer physical/logical (vendor projection)"

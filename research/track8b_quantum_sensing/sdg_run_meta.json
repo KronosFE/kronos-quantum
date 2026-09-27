@@ -1,0 +1,42 @@
+{
+  "bandwidth_hz": 1000.0,
+  "b_mode_scenarios": {
+    "headline_realistic_1mT": 0.001,
+    "weak_field_stress_1uT": 1e-06
+  },
+  "intrinsic_mag_floor": 0.055,
+  "mag_channels": [
+    "n1_rms"
+  ],
+  "sensors": {
+    "conventional_inductive_coil": 1e-09,
+    "NV_diamond_ensemble": 9e-13,
+    "SQUID": 1e-15,
+    "SERF_atomic": 1.6e-16
+  },
+  "class_sigma_mag": {
+    "headline_realistic_1mT|conventional_inductive_coil": 0.05500000909090834,
+    "headline_realistic_1mT|NV_diamond_ensemble": 0.05500000000000736,
+    "headline_realistic_1mT|SQUID": 0.055,
+    "headline_realistic_1mT|SERF_atomic": 0.055,
+    "weak_field_stress_1uT|conventional_inductive_coil": 0.0634428877022476,
+    "weak_field_stress_1uT|NV_diamond_ensemble": 0.055000007363635875,
+    "weak_field_stress_1uT|SQUID": 0.05500000000000909,
+    "weak_field_stress_1uT|SERF_atomic": 0.05500000000000023
+  },
+  "seeds": [
+    20260726,
+    20260727,
+    20260728,
+    20260729,
+    20260730
+  ],
+  "n_train": 300,
+  "n_test": 180,
+  "warn_horizon_ms": 30.0,
+  "alarm_k": 3,
+  "target_far": 0.05,
+  "hardware": "local CPU, 56 cores, no GPU",
+  "runtime_s": 2910.6991460323334,
+  "provenance": "SIM + TRL-SURVEY"
+}

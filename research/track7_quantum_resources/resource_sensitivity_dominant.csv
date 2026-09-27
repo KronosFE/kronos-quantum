@@ -1,0 +1,16 @@
+kernel,metric,dominant_assumption,top_swing,second,second_swing
+K1,logical_qubits,carleman_order_Kc,0.20411998265592457,grid_resolution_N,0.10067016188136302
+K1,T_count,grid_resolution_N,3.0102972100676233,blockenc_norm_alpha_tau_scale,1.9999927490851892
+K1,crossover_year,physical_error_rate_p,0.0,cycle_time_s,0.0
+K1,phys_qubits,physical_error_rate_p,2.589191771317143,grid_resolution_N,0.25847384788489247
+K1,q_wall_s,grid_resolution_N,3.0919672565189433,blockenc_norm_alpha_tau_scale,2.0526990996011927
+K2,logical_qubits,grid_unknowns_Ng,0.09691001300805646,physical_error_rate_p,0.0
+K2,T_count,grid_unknowns_Ng,6.300400502968937,readout_target_error_eps,4.300322008761494
+K2,crossover_year,physical_error_rate_p,0.0,cycle_time_s,0.0
+K2,phys_qubits,readout_target_error_eps,4.086931362086119,grid_unknowns_Ng,3.3349821718398918
+K2,q_wall_s,grid_unknowns_Ng,6.467891590262701,readout_target_error_eps,4.343787702542585
+K3,logical_qubits,active_space_M,0.49732464080794925,physical_error_rate_p,0.0
+K3,T_count,walk_Tcount_exp_on_M,2.0,active_space_M,1.9566949718158781
+K3,crossover_year,active_space_M,4.0,physical_error_rate_p,0.0
+K3,phys_qubits,physical_error_rate_p,2.625135818115477,active_space_M,0.6690200222495477
+K3,q_wall_s,walk_Tcount_exp_on_M,2.0696359281413947,active_space_M,2.0573651336972407

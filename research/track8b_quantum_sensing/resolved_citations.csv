@@ -1,0 +1,21 @@
+cite_key,doi,title,year,venue,role,citation_resolved
+Caves1981,10.1103/PhysRevD.23.1693,Quantum-mechanical noise in an interferometer,1981,Phys. Rev. D,squeezed-light origin; SQL vs sub-SQL,yes
+GLM2011,10.1038/nphoton.2011.35,Advances in quantum metrology,2011,Nat. Photonics,SQL->Heisenberg review; QCRB bound,yes
+Degen2017,10.1103/RevModPhys.89.035002,Quantum sensing,2017,Rev. Mod. Phys.,"quantum sensing review (modalities, TRL context)",yes
+Barry2020,10.1103/RevModPhys.92.015004,Sensitivity optimization for NV-diamond magnetometry,2020,Rev. Mod. Phys.,NV magnetometry sensitivity/bandwidth,yes
+Pezze2018,10.1103/RevModPhys.90.035005,Quantum metrology with nonclassical states of atomic ensembles,2018,Rev. Mod. Phys.,entanglement-enhanced ensembles (lab-stage),yes
+Fagaly2006,10.1063/1.2354545,Superconducting quantum interference device instruments and applications,2006,Rev. Sci. Instrum.,SQUID sensitivity/instrumentation (deployed),yes
+Kominis2003,10.1038/nature01484,A subfemtotesla multichannel atomic magnetometer,2003,Nature,SERF OPM sub-fT sensitivity,yes
+Budker2007,10.1038/nphys566,Optical magnetometry,2007,Nat. Phys.,OPM review; dynamic range/bandwidth,yes
+Dang2010,10.1063/1.3491215,Ultrahigh sensitivity magnetic field and magnetization measurements with an atomic magnetometer,2010,Appl. Phys. Lett.,OPM 160 aT/rtHz demonstrated,yes
+Wolf2015,10.1103/PhysRevX.5.041001,Subpicotesla Diamond Magnetometry,2015,Phys. Rev. X,NV ensemble sub-pT (0.9 pT/rtHz),yes
+Acosta2009,10.1103/PhysRevB.80.115202,Diamonds with a high density of nitrogen-vacancy centers for magnetometry applications,2009,Phys. Rev. B,NV ensemble creation by irradiation; radiation context,yes
+Balas2008,10.1038/nature07278,Nanoscale imaging magnetometry with diamond spins under ambient conditions,2008,Nature,single-NV wide dynamic range / high-field operation,yes
+Tse2019,10.1103/PhysRevLett.123.231107,Quantum-Enhanced Advanced LIGO Detectors in the Era of Gravitational-Wave Astronomy,2019,Phys. Rev. Lett.,squeezed-light deployed in a running interferometer,yes
+Ganapathy2023,10.1103/PhysRevX.13.041021,Broadband Quantum Enhancement of the LIGO Detectors,2023,Phys. Rev. X,"frequency-dependent squeezing, dB improvement",yes
+Vayakis2010,10.1109/tps.2009.2037226,The Magnetic Diagnostic Set for ITER,2010,IEEE Trans. Plasma Sci.,ITER magnetic-diagnostic requirement band,yes
+Strait2006,10.1063/1.2166493,Magnetic diagnostic system of the DIII-D tokamak,2006,Rev. Sci. Instrum.,tokamak equilibrium-reconstruction magnetics (deployed inductive),yes
+Lao1985,10.1088/0029-5515/25/11/007,Reconstruction of current profile parameters and plasma shapes in tokamaks,1985,Nucl. Fusion,EFIT equilibrium reconstruction (state-estimate anchor),yes
+diamondHarsh2021,10.3390/jne2040032,Properties of Diamond-Based Neutron Detectors Operated in Harsh Environments,2021,J. Nucl. Eng.,"diamond neutron detector, harsh/radiation environment",yes
+Ruddy2019,10.1007/s10894-019-00213-9,Advanced Neutron Spectroscopy in Fusion Research,2019,J. Fusion Energy,fusion neutron spectroscopy incl. diamond/compact,yes
+Kouzes2020,10.3389/frwa.2020.00016,Large-Scale Boron-Lined Neutron Detection Systems as a 3He Alternative,2020,Front. Water,He-3 shortage & boron-lined alternative,yes

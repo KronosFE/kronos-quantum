@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Kronos Quantum — honest, runnable quantum-computing-for-fusion codes"
+message: "If you use this software, please cite it."
+type: software
+authors:
+  - name: "Kronos Fusion Energy"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/KronosFE/kronos-quantum"
+keywords:
+  - fusion
+  - quantum computing
+  - VQE
+  - QAOA
+  - quantum machine learning
+  - error mitigation
+abstract: >
+  Nine runnable quantum programs for fusion problems — variational quantum
+  eigensolver, quantum kernels, QAOA, Trotterized dynamics, fault-tolerant
+  resource estimation, quantum metrology, tensor-network compression, error
+  mitigation, and a variational quantum linear solver. Each executes on a free
+  local simulator today and on real quantum hardware the moment a backend is
+  configured, on one code path. No quantum advantage is claimed this decade; a
+  meaningful role in fusion is a post-~2036 prospect. The tooling and testing
+  are real now.
+references:
+  - type: data
+    title: "CGYRO nonlinear kinetic-electron turbulence flux data (A1e map)"
+    doi: "10.5281/zenodo.22136279"

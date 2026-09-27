@@ -1,0 +1,6 @@
+p2_gate_err,p1_gate_err,readout_err,noisy_err_mean_mHa,noisy_err_std_mHa,reaches_chem_acc,instance,n_qubits,depth
+0.0001,1e-05,0.0001,14.35,3.83,False,LiH_2e3o,4,234
+0.0003,3e-05,0.0003,4.58,2.62,False,LiH_2e3o,4,234
+0.001,0.0001,0.001,31.7,4.13,False,LiH_2e3o,4,234
+0.003,0.0003,0.003,137.44,13.63,False,LiH_2e3o,4,234
+0.01,0.001,0.01,363.14,5.8,False,LiH_2e3o,4,234

@@ -1,0 +1,17 @@
+a_LT,shear,Q_i,Q_e,Q_tot,verdict,source
+3.5,0.8,0.0,100.0,100.0,turbulent,CGYRO_16MAP_FINAL md (hi-res harvest pending json)
+3.5,1.6,1110.711,234.4118,1345.1228,turbulent,flux_db.csv (original)
+3.0,1.6,488.8684,113.7439,602.6123,turbulent,flux_db.csv (original)
+3.0,1.2,248.6992,74.81462,323.51382,turbulent,flux_db.csv (original)
+3.5,1.2,587.6813,161.9353,749.6166,turbulent,flux_db.csv (original)
+3.0,0.4,331.3056,117.4237,448.7293,turbulent,flux_db.csv (original)
+3.0,0.8,-0.40910348296165466,96.94940185546875,96.94940185546875,turbulent,final5_harvest N_RADIAL=128
+3.5,0.4,70.84402,33.11896,103.96298,turbulent,flux_db.csv (original)
+2.0,1.2,0.0,0.0002347897,0.0002347897,quiet,flux_db.csv (original)
+2.0,1.6,0.0,0.0001259563,0.0001259563,quiet,flux_db.csv (original)
+2.0,0.4,0.0456096,0.7814229,0.8270325000000001,turbulent,flux_db.csv (original)
+2.0,0.8,0.009693343,1.921763,1.931456343,turbulent,flux_db.csv (original)
+2.5,0.4,0.19891402125358582,9.047569274902344,9.24648329615593,turbulent,final5_harvest N_RADIAL=128
+2.5,0.8,-0.020558327436447144,15.707536697387695,15.707536697387695,turbulent,final5_harvest N_RADIAL=128
+2.5,1.2,0.0011837953934445977,0.01477062702178955,0.01595442241523415,quiet,final5_harvest N_RADIAL=128
+2.5,1.6,0.0008905440918169916,0.0005936035886406898,0.0014841476804576814,quiet,final5_harvest N_RADIAL=128

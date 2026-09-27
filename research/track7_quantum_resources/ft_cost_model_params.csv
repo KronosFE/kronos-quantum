@@ -1,0 +1,13 @@
+param,value,kind,source
+p_th_surface_code,0.01,fixed,Fowler2012 / Gidney-Ekera2021 / Beverland2022 / Sanders2020
+A_logical_prefactor,0.1,fixed,Fowler2012 / Gidney-Ekera2021 / Beverland2022 / Sanders2020
+c_area_qubits_per_logical,2.0,fixed,Fowler2012 / Gidney-Ekera2021 / Beverland2022 / Sanders2020
+c_area_factory,15.0,fixed,Fowler2012 / Gidney-Ekera2021 / Beverland2022 / Sanders2020
+target_total_fail_prob,0.01,fixed,Fowler2012 / Gidney-Ekera2021 / Beverland2022 / Sanders2020
+T_per_toffoli,4.0,fixed,Fowler2012 / Gidney-Ekera2021 / Beverland2022 / Sanders2020
+p_phys[optimistic],0.0001,hw_scenario,near-term FT target band (Beverland2022; Google/IBM roadmaps)
+t_cycle_s[optimistic],1e-07,hw_scenario,superconducting surface-code cycle 0.1-1 us
+p_phys[baseline],0.001,hw_scenario,near-term FT target band (Beverland2022; Google/IBM roadmaps)
+t_cycle_s[baseline],1e-06,hw_scenario,superconducting surface-code cycle 0.1-1 us
+p_phys[pessimistic],0.003,hw_scenario,near-term FT target band (Beverland2022; Google/IBM roadmaps)
+t_cycle_s[pessimistic],1e-06,hw_scenario,superconducting surface-code cycle 0.1-1 us
