@@ -1,7 +1,7 @@
 # Quantum Computing for Fusion — the Kronos Approach
 
 **A technical white paper accompanying the `kronos-quantum` codes.**
-Kronos Fusion Energy. Version 0.1.0.
+Kronos Fusion Energy. Version 0.3.0.
 
 ---
 
