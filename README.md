@@ -1,5 +1,10 @@
 # Kronos Quantum
 
+[![PyPI](https://img.shields.io/pypi/v/kronos-quantum?color=blue)](https://pypi.org/project/kronos-quantum/)
+[![Downloads](https://img.shields.io/pypi/dm/kronos-quantum?color=blue)](https://pypi.org/project/kronos-quantum/)
+[![Python](https://img.shields.io/pypi/pyversions/kronos-quantum)](https://pypi.org/project/kronos-quantum/)
+[![License](https://img.shields.io/github/license/KronosFE/kronos-quantum?color=blue)](LICENSE)
+
 **Honest, runnable quantum computing for fusion.** Nine real quantum programs that execute on a free
 local simulator today, and on real quantum hardware the moment you plug in an account — the same code,
 one environment variable. Built and benchmarked by [Kronos Fusion Energy](https://www.kronosfusionenergy.com),
